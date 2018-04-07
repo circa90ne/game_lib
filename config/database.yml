@@ -13,4 +13,4 @@ development:
   <<: *default
   database: game_library_development
   username: root
-  password: 
+  password:
